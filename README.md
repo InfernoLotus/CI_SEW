@@ -1,5 +1,5 @@
 # CI_SEW
-# Testing and CI/CD Demo!!
+# Testing and CI/CD Demo!!!
 
 This repository is a demo of how to use GitHub Actions to run tests and build a Java project!
 
