@@ -15,6 +15,7 @@ public class Calculator {
         return a / b;
     }
     /*HAEI*/
+    /*Oida, des kann I ned glauben wieso dieser t.. es nicht akzeptiert.*/
 
     public int multiply(int a, int b) {
         return a * b;
